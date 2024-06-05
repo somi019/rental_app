@@ -1,0 +1,64 @@
+.forma_za_unos{
+    text-align: center;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    padding: 10px;
+    margin-bottom: 35px;
+    align-content: flex-start;
+    margin-left: 40px;
+    display: flex;
+    justify-content: space-around;
+    height: 450px;
+}
+#root > div.forma_za_unos > form > label:nth-child(6){
+  margin-top: 20px;
+}
+
+#root > div.MuiTableContainer-root.css-rorn0c-MuiTableContainer-root{
+  display: flex;
+  justify-content: space-around;
+}
+
+form{
+  padding: 15px;
+  border: 4px solid rgb(81, 225, 71);
+
+}
+
+label{
+  padding: 20px;
+  margin-bottom: 10px;
+  
+}
+input{
+  margin-bottom: 10px;
+}
+
+table{
+  border: 4px solid beige;
+  margin-left: 40px;
+  display: flex;
+  justify-content: space-around;
+}
+
+#root > div.container{
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+#root > div.MuiBox-root.css-11eopig{
+  display: flex;
+  justify-content: space-between;
+}
+
+#root > div.container > div.MuiTableContainer-root.css-rorn0c-MuiTableContainer-root > table{
+
+  width: 90%;
+}
+
+#root > div.container > div.MuiTableContainer-root.css-rorn0c-MuiTableContainer-root > table > tbody > tr > td{
+  font-size: large;
+}
+
+
